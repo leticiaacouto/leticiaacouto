@@ -6,7 +6,8 @@
 ![image](https://github.com/leticiaacouto/leticiaacouto/assets/147053310/625d1710-8778-47f4-a9e0-57aec2dadd4e)
 ![image](https://github.com/leticiaacouto/leticiaacouto/assets/147053310/2e1d69b8-ee54-4da7-a32d-a3f7546ef88f)
 
-## Encontre-me: ![image](https://github.com/leticiaacouto/leticiaacouto/assets/147053310/f61dfec8-2952-472e-b615-e22a1a9dc5eb) 
+## Encontre-me: 
+![image](https://github.com/leticiaacouto/leticiaacouto/assets/147053310/786b9ee7-96dc-4602-b4e1-1659be13a0fa)
 ![image](https://github.com/leticiaacouto/leticiaacouto/assets/147053310/f4525402-f270-46a8-8a10-5ac12cee1d33)
 
 
