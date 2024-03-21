@@ -29,24 +29,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Sou Letícia do Couto Martins, tenho 19 anos e sou estudante do curso de Desenvolvimento Web, pelo Instituto de Oportunidade Social (IOS) e cursei UX-UI Design, pelo Instituto Caldeira. 
-  Além disso, possuo diversas soft skills.
-
-<p align="left">
- 
-  🦄 Objetivo: **Aprendizagem contínua e novas experiências.**
-</p>
-
-<p align="left">
-</p>
-
-  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva.**
-
-
-<p align="left">
-  💌 Navegue à vontade pelo perfil.
-</p>
 
 
 
