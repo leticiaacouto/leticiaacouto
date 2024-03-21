@@ -1,6 +1,6 @@
 <img align="left" width="370px" height="420px" src="https://github.com/leticiaacouto/leticiaacouto/assets/147053310/4e6d8c36-7ce3-4853-8085-bb956c059a20">
 
-## Olá! Estou fazendo um curso de Programação Web Full-Stark, no Instituto de Oportunidade Social.
+## Hello! Estou fazendo um curso de Programação Web Full-Stark, no Instituto de Oportunidade Social.
 
 ![image](https://github.com/leticiaacouto/leticiaacouto/assets/147053310/e6165707-f8ce-4768-80c7-4883121bf3a7)
 ![image](https://github.com/leticiaacouto/leticiaacouto/assets/147053310/625d1710-8778-47f4-a9e0-57aec2dadd4e)
@@ -30,8 +30,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Letícia do Couto Martins, tenho 19 anos e sou estudante do curso de Desenvolvimento Web, pelo Instituto de Oportunidade Social(IOS) e cursei UX-UI Design, pelo Instituto Caldeira. Além disso, possuo diversas soft skills e sou habituada com trabalhos em grupo. Atualmente, busco me desenvolver profissionalmente através de uma oportunidade nas áreas de: UX-UI Design, Desenvolvimento Back-End e Front-End. Busco oportunidades que aprimorem meus conhecimentos, e assim, junto com a empresa, possa estar sempre evoluindo.
-</p>
+  Sou Letícia do Couto Martins, tenho 19 anos e sou estudante do curso de Desenvolvimento Web, pelo Instituto de Oportunidade Social (IOS) e cursei UX-UI Design, pelo Instituto Caldeira. 
+  Além disso, possuo diversas soft skills.
 
 <p align="left">
  
