@@ -30,19 +30,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área desejada (se não tiver ignore)</strong>. <br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Sou Letícia do Couto Martins, tenho 19 anos e sou estudante do curso de Desenvolvimento Web, pelo Instituto de Oportunidade Social(IOS) e cursei UX-UI Design, pelo Instituto Caldeira. Além disso, possuo diversas soft skills e sou habituada com trabalhos em grupo. Atualmente, busco me desenvolver profissionalmente através de uma oportunidade nas áreas de: UX-UI Design, Desenvolvimento Back-End e Front-End. Busco oportunidades que aprimorem meus conhecimentos, e assim, junto com a empresa, possa estar sempre evoluindo.
 </p>
 
 <p align="left">
  
-  🦄 Objetivo: **Exemplo: aprendizagem contínua.**
+  🦄 Objetivo: **Aprendizagem contínua e novas experiências.**
 </p>
 
 <p align="left">
 </p>
 
-  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva e Ferramentas Google.**
+  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva.**
 
 
 <p align="left">
